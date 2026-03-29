@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "channel": "stable",
+  "url": "https://drive.google.com/file/d/PASTE_SETUP_FILE_ID_HERE/view?usp=sharing",
+  "notes": "Стартова публічна збірка. Пофікшено: signal-cli через свою локальну Java, стартове вікно не їбе більше голову, базову логіку ShareX, збереження налаштувань і завершення всіх процесів після закриття пітушні."
+}
