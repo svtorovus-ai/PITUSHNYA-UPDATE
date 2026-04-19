@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.15",
   "channel": "stable",
   "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya/PITUSHNYA_MCC_Setup.exe",
-  "notes": "Дохуя чого пофікшено, але ще далеко не все)"
+  "notes": "Дохуя чого пофікшено, додано новий модуль Майстер цілі, оновлено дизайн, але цце ще далеко не все)"
 }
