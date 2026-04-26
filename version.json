@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "channel": "stable",
   "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya/PITUSHNYA_MCC_Setup.exe",
   "notes": "Дохуя вже чого пофікшено, але ще багато косяків- додано новий модуль Майстер цілі, оновлено дизайн, виправлено конфлікт гарячих клавіш, додано логіку прийому корів з буферу обміну, та конвертер координатних систем"
