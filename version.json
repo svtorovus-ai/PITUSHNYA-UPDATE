@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "channel": "stable",
   "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya/PITUSHNYA_MCC_Setup.exe",
-  "notes": "Пофікшено фільтр прийому корів"
+  "notes": "Пофікшено фільтр прийому корів, та редагування вихідного шаблону"
 }
