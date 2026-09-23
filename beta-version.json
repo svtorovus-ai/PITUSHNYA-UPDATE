@@ -1,0 +1,6 @@
+{
+  "version": "1.1.10-beta.6",
+  "channel": "beta",
+  "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/v1.1.10-beta.6/PITUSHNYA_MCC_Setup.exe",
+  "notes": "Beta-реліз 1.1.10-beta.6.\n\nПереведено URL оновлень на публічний репозиторій PITUSHNYA-UPDATE.\nЗбережено телеметрію та вбудований telemetry token.\nОновлено штатний updater зі збереженням config/data.\nПеревірено beta-ланцюг оновлення."
+}
