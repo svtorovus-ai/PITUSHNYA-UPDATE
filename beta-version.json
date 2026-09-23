@@ -1,6 +1,0 @@
-{
-  "version": "1.1.10-beta.8",
-  "channel": "beta",
-  "url": "https://github.com/svtorovus-ai/PITUSHNYA-MCC/releases/download/v1.1.10-beta.8/PITUSHNYA_MCC_Setup.exe",
-  "notes": "Beta-реліз 1.1.10-beta.8.\n\nЗбереження config/data, профілю Signal-Cli та користувацьких даних ShareX під час оновлення.\nІмпорт ShareX-конфігів із sharex_data.\nРучна повторна QR-прив’язка Signal-Cli.\nЗахист від запуску другого екземпляра та відновлення телеметрії."
-}
