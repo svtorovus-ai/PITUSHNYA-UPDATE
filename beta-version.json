@@ -1,0 +1,6 @@
+{
+  "version": "1.1.41-beta.1",
+  "channel": "beta",
+  "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-beta/PITUSHNYA_MCC_Setup.exe",
+  "notes": "Бета-реліз PITUSHNYA MCC версії 1.1.41-beta.1.\n\nСтабільний реліз PITUSHNYA MCC версії 1.1.41.\r\n\r\n- Великі завантаження апдейтера відновлюються після переривання та повторюються без втрати вже отриманих даних.\r\n- Перед запуском Setup апдейтер перевіряє Windows-інсталятор і відхиляє HTML або пошкоджений файл.\r\n- Критичні помилки апдейтера записуються разом із traceback у постійний лог, а не зникають мовчки.\r\n- Стабільний канал використовує version.json і реліз pitushnya; beta-канал використовує beta-version.json і реліз pitushnya-beta.\r\n- Backup-реліз і його маніфест не змінювалися."
+}
