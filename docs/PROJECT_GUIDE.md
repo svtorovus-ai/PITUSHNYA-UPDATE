@@ -27,7 +27,7 @@ Stable:
 - URL ends `/pitushnya/PITUSHNYA_MCC_Setup.exe`.
 
 Beta:
-- version 1.1.44-beta.24 (published 2026-10-11)
+- version 1.1.44-beta.25 (published 2026-10-11)
 - manifest `beta-version.json`
 - tag `pitushnya-beta`
 - URL ends `/pitushnya-beta/PITUSHNYA_MCC_Setup.exe`.

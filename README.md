@@ -10,7 +10,7 @@
 | Що | Версія | Manifest | Release tag | Файл |
 |---|---|---|---|---|
 | PITUSHNYA MCC для Windows, стабільна | 1.1.44 | `version.json` | `pitushnya` | `PITUSHNYA_MCC_Setup.exe` |
-| PITUSHNYA MCC для Windows, бета | 1.1.44-beta.24 | `beta-version.json` | `pitushnya-beta` | `PITUSHNYA_MCC_Setup.exe` |
+| PITUSHNYA MCC для Windows, бета | 1.1.44-beta.25 | `beta-version.json` | `pitushnya-beta` | `PITUSHNYA_MCC_Setup.exe` |
 | PITUSHNYA Mobile для Android | 1.0.18 | `mobile-version.json` | `pitushnya-mobile` | `PITUSHNYA-Mobile.apk` |
 
 Release `БЕКаП` — резервна копія перевіреного інсталятора. Це не канал оновлень, його не можна використовувати для інших цілей.
@@ -32,7 +32,7 @@ Release `БЕКаП` — резервна копія перевіреного і
 ## Як встановити
 
 - **Windows.** Завантажте `PITUSHNYA_MCC_Setup.exe` з потрібного release ([стабільна](../../releases/tag/pitushnya) або [бета](../../releases/tag/pitushnya-beta)) і запустіть. Далі програма оновлюється сама зі свого каналу.
-- **Android.** Найпростіше — з бета-версії для Windows: вікно «Remote 4 Android» показує QR-код для встановлення і підключення. APK також лежить у release [pitushnya-mobile](../../releases/tag/pitushnya-mobile). Потрібна PITUSHNYA MCC 1.1.44-beta.24 або новіша. Далі додаток оновлюється сам.
+- **Android.** Найпростіше — з бета-версії для Windows: вікно «Remote 4 Android» показує QR-код для встановлення і підключення. APK також лежить у release [pitushnya-mobile](../../releases/tag/pitushnya-mobile). Потрібна PITUSHNYA MCC 1.1.44-beta.25 або новіша. Далі додаток оновлюється сам.
 
 Як користуватися кожною функцією, описано у вкладці «Інфо» програми.
 
