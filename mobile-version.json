@@ -1,0 +1,9 @@
+{
+    "version": "1.0.18",
+    "versionCode": 19,
+    "channel": "mobile",
+    "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
+    "sha256": "88ec5865e63e7ff02a31bfcae5cfd84c1c6872e01321d31a305b1c1d5d36cdb8",
+    "minProtocolVersion": 1,
+    "notes": "PITUSHNYA Mobile 1.0.18. Трансляція екрана ПК, скріни з позначками, майстер цілі, перевірка і надсилання готового тексту, вибір областей з лупою, швидкі налаштування та стан ПК у «Сервіс». Потрібна PITUSHNYA MCC 1.1.44-beta.24 або новіша."
+}
