@@ -27,7 +27,7 @@ Stable:
 - URL ends `/pitushnya/PITUSHNYA_MCC_Setup.exe`.
 
 Beta:
-- version 1.1.44-beta.1
+- version 1.1.44-beta.24 (published 2026-10-11)
 - manifest `beta-version.json`
 - tag `pitushnya-beta`
 - URL ends `/pitushnya-beta/PITUSHNYA_MCC_Setup.exe`.
@@ -56,9 +56,11 @@ Replacing beta asset while keeping identical version string does not make instal
 
 New beta build should bump prerelease number while retaining fixed `pitushnya-beta` distribution tag.
 
-## Future Android Mobile
+## Android Mobile
 
-Reserved names:
+Published 2026-10-11: version 1.0.18, versionCode 19.
+
+Names:
 - `mobile-version.json`;
 - `pitushnya-mobile`;
 - `PITUSHNYA-Mobile.apk`.

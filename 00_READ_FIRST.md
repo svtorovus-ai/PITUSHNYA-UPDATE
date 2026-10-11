@@ -2,7 +2,7 @@
 
 Це НЕ source repo PITUSHNYA.
 
-Це public distribution/update endpoint для встановлених Windows PITUSHNYA clients і майбутнього окремого Android Mobile channel.
+Це public distribution/update endpoint для встановлених Windows PITUSHNYA clients і окремого Android Mobile channel.
 
 Source Windows:
 `svtorovus-ai/PITUSHNYA-MCC`
@@ -25,6 +25,11 @@ Beta:
 - `beta-version.json`
 - tag `pitushnya-beta`
 - asset `PITUSHNYA_MCC_Setup.exe`
+
+Android Mobile:
+- `mobile-version.json`
+- tag `pitushnya-mobile`
+- asset `PITUSHNYA-Mobile.apk`
 
 Backup:
 - tag `БЕКаП`

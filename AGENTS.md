@@ -47,6 +47,9 @@ Asset:
 На момент аудиту:
 1.1.44-beta.1.
 
+Опубліковано 2026-10-11:
+1.1.44-beta.24.
+
 Не змішувати з stable.
 
 ## 4. Backup
@@ -93,18 +96,18 @@ Distribution repo не є місцем для "маленької заглушк
 
 ## 8. Android Mobile — окремий третій контракт
 
-Коли PITUSHNYA Mobile APK реально готовий, він має окремі names:
+PITUSHNYA Mobile APK опубліковано 2026-10-11 (1.0.18, versionCode 19). Він має окремі names:
 - manifest `mobile-version.json`;
 - tag `pitushnya-mobile`;
 - asset `PITUSHNYA-Mobile.apk`.
 
 НЕ використовувати `version.json`, `beta-version.json`, `pitushnya` або `pitushnya-beta` для Android.
 
-Не створювати `mobile-version.json` із фейковим URL до появи реального APK.
+Не вказувати в `mobile-version.json` URL або `sha256`, які не відповідають реально викладеному APK.
 
 ## 9. Android manifest
 
-Запланований мінімум:
+Поля:
 - version;
 - versionCode;
 - channel=mobile;
