@@ -1,9 +1,9 @@
 {
-    "version": "1.0.18",
-    "versionCode": 19,
+    "version": "1.0.19",
+    "versionCode": 20,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "88ec5865e63e7ff02a31bfcae5cfd84c1c6872e01321d31a305b1c1d5d36cdb8",
+    "sha256": "46fca559aa3587e18b1d14bd1d9bb214696f732f4b3740122609cdec4e48b202",
     "minProtocolVersion": 1,
-    "notes": "PITUSHNYA Mobile 1.0.18. Трансляція екрана ПК, скріни з позначками, майстер цілі, перевірка і надсилання готового тексту, вибір областей з лупою, швидкі налаштування та стан ПК у «Сервіс». Потрібна PITUSHNYA MCC 1.1.44-beta.24 або новіша."
+    "notes": "PITUSHNYA Mobile 1.0.19. Під трансляцією на головному екрані додано дві маленькі кнопки: «Область трансляції» та «Область скріншоту» — переобрати область можна одразу, не заходячи в «Сервіс»."
 }
