@@ -58,7 +58,7 @@ New beta build should bump prerelease number while retaining fixed `pitushnya-be
 
 ## Android Mobile
 
-Published 2026-10-11: version 1.0.18, versionCode 19.
+Published 2026-10-11: version 1.0.19, versionCode 20.
 
 Names:
 - `mobile-version.json`;

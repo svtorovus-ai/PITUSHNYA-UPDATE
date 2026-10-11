@@ -11,7 +11,7 @@
 |---|---|---|---|---|
 | PITUSHNYA MCC для Windows, стабільна | 1.1.44 | `version.json` | `pitushnya` | `PITUSHNYA_MCC_Setup.exe` |
 | PITUSHNYA MCC для Windows, бета | 1.1.44-beta.25 | `beta-version.json` | `pitushnya-beta` | `PITUSHNYA_MCC_Setup.exe` |
-| PITUSHNYA Mobile для Android | 1.0.18 | `mobile-version.json` | `pitushnya-mobile` | `PITUSHNYA-Mobile.apk` |
+| PITUSHNYA Mobile для Android | 1.0.19 | `mobile-version.json` | `pitushnya-mobile` | `PITUSHNYA-Mobile.apk` |
 
 Release `БЕКаП` — резервна копія перевіреного інсталятора. Це не канал оновлень, його не можна використовувати для інших цілей.
 

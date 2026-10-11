@@ -96,7 +96,7 @@ Distribution repo не є місцем для "маленької заглушк
 
 ## 8. Android Mobile — окремий третій контракт
 
-PITUSHNYA Mobile APK опубліковано 2026-10-11 (1.0.18, versionCode 19). Він має окремі names:
+PITUSHNYA Mobile APK опубліковано 2026-10-11 (1.0.19, versionCode 20). Він має окремі names:
 - manifest `mobile-version.json`;
 - tag `pitushnya-mobile`;
 - asset `PITUSHNYA-Mobile.apk`.
