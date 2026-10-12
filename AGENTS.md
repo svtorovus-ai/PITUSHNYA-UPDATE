@@ -48,7 +48,7 @@ Asset:
 1.1.44-beta.1.
 
 Опубліковано 2026-10-11:
-1.1.44-beta.26.
+1.1.44-beta.28.
 
 Не змішувати з stable.
 
@@ -96,7 +96,7 @@ Distribution repo не є місцем для "маленької заглушк
 
 ## 8. Android Mobile — окремий третій контракт
 
-PITUSHNYA Mobile APK опубліковано 2026-10-11 (1.0.20, versionCode 21). Він має окремі names:
+PITUSHNYA Mobile APK опубліковано 2026-10-11 (1.0.21, versionCode 22). Він має окремі names:
 - manifest `mobile-version.json`;
 - tag `pitushnya-mobile`;
 - asset `PITUSHNYA-Mobile.apk`.
