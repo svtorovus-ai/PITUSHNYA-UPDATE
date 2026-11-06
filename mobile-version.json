@@ -1,9 +1,9 @@
 {
-    "version": "1.0.77",
-    "versionCode": 78,
+    "version": "1.0.78",
+    "versionCode": 79,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "ac9293e7fff41c5e563d1d7e5a66b03754a0c57ee351fc89724fac08bc7c4e0c",
+    "sha256": "32a47f78b7609beba4f92c1f4192f7dc6126a623126b7cd7cfdd4e764ee4aa5e",
     "minProtocolVersion": 1,
-    "notes": "PITUSHNYA Mobile 1.0.77\n- Мапа: кнопка «Медіа» внизу — сховати й показати скріни й відео цілей на мапі (є і в «Ще»).\n- Галерея цілі показує всі вкладення, що пішли з повідомленням цілі."
+    "notes": "PITUSHNYA Mobile 1.0.78\n- Мапа: скріни цілей не накладаються одне на одне і на точки цілей — коли не вміщаються, тимчасово зменшуються."
 }
