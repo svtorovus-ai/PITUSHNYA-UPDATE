@@ -1,9 +1,9 @@
 {
-    "version": "1.0.78",
-    "versionCode": 79,
+    "version": "1.0.80",
+    "versionCode": 81,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "32a47f78b7609beba4f92c1f4192f7dc6126a623126b7cd7cfdd4e764ee4aa5e",
+    "sha256": "dc4fd0048cb87bec809a1c8cae5e44b319664e3fa657b40c72adc364c3346f13",
     "minProtocolVersion": 1,
-    "notes": "PITUSHNYA Mobile 1.0.78\n- Мапа: скріни цілей не накладаються одне на одне і на точки цілей — коли не вміщаються, тимчасово зменшуються."
+    "notes": ""
 }
