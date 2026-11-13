@@ -1,9 +1,9 @@
 {
-    "version": "1.0.100",
-    "versionCode": 101,
+    "version": "1.0.101",
+    "versionCode": 102,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "65e485454a70a34807e2fe5096eac4de4b6a0b6bdeb1f277975c0f267475382a",
+    "sha256": "d9a119977a56695c721d7ffde18e1beaacb9d7c83c2759459c497cbd84b92d60",
     "minProtocolVersion": 1,
-    "notes": "PITUSHNYA Mobile 1.0.100\n- Підміна GPS: у фоні на сервер і на ПК іде лише місце, що збігається з мережею (Wi-Fi і вежі), — більше не «Ліма» на мапах інших пристроїв; з точним Wi-Fi підміна ловиться вже за 1,5 км."
+    "notes": "PITUSHNYA Mobile 1.0.101\n- Підміна GPS: телефон у мережі ПК звіряється з місцем інших телефонів у тій самій мережі — GPS далеко від них вважається підміною, мітка повертається на справжнє місце; місце за межами України не береться як «останнє відоме» (планшет без SIM більше не стоїть «у Лімі»)."
 }
