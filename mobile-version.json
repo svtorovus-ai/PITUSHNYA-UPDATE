@@ -1,9 +1,9 @@
 {
-    "version": "1.0.97",
-    "versionCode": 98,
+    "version": "1.0.98",
+    "versionCode": 99,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "1e494d3b23cd8ca8327b2f4bbb50a9a5cd523e458f754a9be542c7e2ddb170cf",
+    "sha256": "270cc5c87ffaaa9e5aaf1f6b07a6bfb112ea6c3af5b77c06a0fc27cf3bdfcb03",
     "minProtocolVersion": 1,
-    "notes": "PITUSHNYA Mobile 1.0.97\n- Мітка телефона на мапі ПК тепер постійно: і з закритою мапою, і у фоні, і коли додаток змахнули; телефон, що лежить, оновлює місце раз на 3 хв.\n- Через сервер місце йде і без ПК — після першої прив'язки; інші телефони того ж ПК бачать його."
+    "notes": "PITUSHNYA Mobile 1.0.98\n- З відкритою мапою місце йде на сервер майже наживо (раз на 3 с), інші телефони бачать його так само.\n- ПК може попросити місце телефона просто зараз (правий клік по мітці → «Оновити місце»)."
 }
