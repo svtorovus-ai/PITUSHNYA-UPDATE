@@ -1,6 +1,6 @@
 {
-  "version": "1.1.52",
+  "version": "1.1.53",
   "channel": "stable",
   "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya/PITUSHNYA_MCC_Setup.exe",
-  "notes": "PITUSHNYA MCC 1.1.52\n- Налаштування → Remote 4 Android: для кожного телефона окремо — які сповіщення він отримує (кори зайшли, AI NAVI прив'язався, ПК готовий, надіслано в Signal); по Wi‑Fi в мережі ПК, а поза нею — через сервер."
+  "notes": "PITUSHNYA MCC 1.1.53\n- Виправлено: у 1.1.52 місце телефона не приймалось (журнал заповнювався помилками «phone.location не виконано»); мітки телефонів на мапі знову оновлюються.\n- Налаштування → Remote 4 Android: для кожного телефона окремо — які сповіщення він отримує (по Wi‑Fi або через сервер)."
 }
