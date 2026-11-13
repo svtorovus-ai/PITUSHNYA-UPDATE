@@ -1,9 +1,9 @@
 {
-    "version": "1.0.99",
-    "versionCode": 100,
+    "version": "1.0.100",
+    "versionCode": 101,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "a27bd2e874a82f3e7aadccf1086581163b6390698cddcf8d177365a7393aeb42",
+    "sha256": "65e485454a70a34807e2fe5096eac4de4b6a0b6bdeb1f277975c0f267475382a",
     "minProtocolVersion": 1,
-    "notes": "PITUSHNYA Mobile 1.0.99\n- Захист від підміни GPS (і на мапі, і в навігаторі): помічену підміну телефон не пробачає 10 хв; GPS повертається, лише коли 15 разів поспіль збігається з місцем по мережі (Wi-Fi і вежі); з точним Wi-Fi перевірка в межах 3 км. Мітка більше не стрибає між справжнім місцем і підміною."
+    "notes": "PITUSHNYA Mobile 1.0.100\n- Підміна GPS: у фоні на сервер і на ПК іде лише місце, що збігається з мережею (Wi-Fi і вежі), — більше не «Ліма» на мапах інших пристроїв; з точним Wi-Fi підміна ловиться вже за 1,5 км."
 }
