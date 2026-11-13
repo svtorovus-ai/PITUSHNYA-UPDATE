@@ -1,9 +1,9 @@
 {
-    "version": "1.0.98",
-    "versionCode": 99,
+    "version": "1.0.99",
+    "versionCode": 100,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "270cc5c87ffaaa9e5aaf1f6b07a6bfb112ea6c3af5b77c06a0fc27cf3bdfcb03",
+    "sha256": "a27bd2e874a82f3e7aadccf1086581163b6390698cddcf8d177365a7393aeb42",
     "minProtocolVersion": 1,
-    "notes": "PITUSHNYA Mobile 1.0.98\n- З відкритою мапою місце йде на сервер майже наживо (раз на 3 с), інші телефони бачать його так само.\n- ПК може попросити місце телефона просто зараз (правий клік по мітці → «Оновити місце»)."
+    "notes": "PITUSHNYA Mobile 1.0.99\n- Захист від підміни GPS (і на мапі, і в навігаторі): помічену підміну телефон не пробачає 10 хв; GPS повертається, лише коли 15 разів поспіль збігається з місцем по мережі (Wi-Fi і вежі); з точним Wi-Fi перевірка в межах 3 км. Мітка більше не стрибає між справжнім місцем і підміною."
 }
