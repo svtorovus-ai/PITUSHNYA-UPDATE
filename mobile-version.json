@@ -1,9 +1,9 @@
 {
-    "version": "1.1.3",
-    "versionCode": 110,
+    "version": "1.1.5",
+    "versionCode": 112,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "d7794dc69c7fc32c8bdcc96e239840be77308a6b3f44779c4f1602ee51f54457",
+    "sha256": "d2b55b67b14760947d2e68328882b278595cd2e060dd7a7292e0a4c653f73130",
     "minProtocolVersion": 1,
-    "notes": "Дохуя чого пофікшено. Спуфінг має ігнорувати повністю, але треба тестувати"
+    "notes": "Оновлення тепер ставиться саме, без відкриття додатку. Натиск на сповіщення про оновлення відкриває стартовий екран. Мапа відкривається там, де лишили."
 }
