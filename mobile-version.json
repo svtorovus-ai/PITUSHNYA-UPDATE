@@ -5,5 +5,5 @@
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
     "sha256": "fd92dfbe4008f5084922ee2fea178f648cd81a31c29c8e04d2a6395dd72cf6b5",
     "minProtocolVersion": 1,
-    "notes": "Голосовий пошук у мапі й навігаторі. Мітка менше скаче при глушінні GPS. «Моє місце бачать інші пристрої» — вирішує сам телефон. Оновлення можна запустити з ПК."
+    "notes": "Дохуя чого пофікшено. + Додано голосовий пошук, захист від спуфінгу"
 }
