@@ -1,9 +1,9 @@
 {
-    "version": "1.1.5",
-    "versionCode": 112,
+    "version": "1.1.6",
+    "versionCode": 113,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "d2b55b67b14760947d2e68328882b278595cd2e060dd7a7292e0a4c653f73130",
+    "sha256": "7218edcd18ea95cb0038d6d0c8a6e8ed3af1e850ad80cadf4f5f3745047c157e",
     "minProtocolVersion": 1,
-    "notes": "Оновлення тепер ставиться саме, без відкриття додатку. Натиск на сповіщення про оновлення відкриває стартовий екран. Мапа відкривається там, де лишили."
+    "notes": "Менше сповіщень. Підписи пристроїв на мапі не налазять один на одного."
 }
