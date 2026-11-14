@@ -1,9 +1,9 @@
 {
-    "version": "1.1.8",
-    "versionCode": 115,
+    "version": "1.1.10",
+    "versionCode": 117,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "fd92dfbe4008f5084922ee2fea178f648cd81a31c29c8e04d2a6395dd72cf6b5",
+    "sha256": "d1682c636f53f9cb29bb27f6ac303ade7deb1f518d45d76fa65d11fc84a8096a",
     "minProtocolVersion": 1,
-    "notes": "Дохуя чого пофікшено. + Додано голосовий пошук, захист від спуфінгу"
+    "notes": "Мітки вид згори — свої для кожного пристрою, видно на всіх. Фари вночі. Налаштування по модулях. Приховування кнопок довгим дотиком. Варіанти голосових підказок. Стабільніша передача місця у фоні й тихі оновлення."
 }
