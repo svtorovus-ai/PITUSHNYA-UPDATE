@@ -1,9 +1,9 @@
 {
-    "version": "1.1.11",
-    "versionCode": 118,
+    "version": "1.1.12",
+    "versionCode": 119,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "60279be9f88014511bb267f0c75a3d53423cde1eef72c3b0eedc9ad78656a612",
+    "sha256": "b9a86e51f7f89212270d77ee0bf36f79a80419484f381e45479f3ab564b8161c",
     "minProtocolVersion": 1,
-    "notes": "Місце у фоні стабільніше: сервер будить телефон, коли треба. Тихі оновлення без підтверджень. Нова фраза перевищення швидкості."
+    "notes": "Перевірка тихого оновлення."
 }
