@@ -1,9 +1,9 @@
 {
-    "version": "1.1.17",
-    "versionCode": 124,
+    "version": "1.1.18",
+    "versionCode": 125,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "d7593472235a934a2b2a4af63dfb2ed0b013096b088e4ebd432b2a05c94744cc",
+    "sha256": "4697a913d1c7f27cf7fafeac8656f0237892e8d931e96ad4c1948891f07ab5c5",
     "minProtocolVersion": 1,
-    "notes": "Дохуя чого пофікшено. + Голосовий пошук. Кожному по значку. Оптимізація шоб батарейку не жер. Безкінечна боротьба з ребівцями."
+    "notes": "Дохуя чого пофікшено. Спуфінг має бути пахую. Але треба перевіряти"
 }
