@@ -1,9 +1,9 @@
 {
-    "version": "1.1.18",
-    "versionCode": 125,
+    "version": "1.1.19",
+    "versionCode": 126,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "4697a913d1c7f27cf7fafeac8656f0237892e8d931e96ad4c1948891f07ab5c5",
+    "sha256": "3f9050b0c1c25db4e851cf21cd4f0f5db26ca3dcf57d9d9d9743a03f1804c91b",
     "minProtocolVersion": 1,
-    "notes": "Дохуя чого пофікшено. Спуфінг має бути пахую. Але треба перевіряти"
+    "notes": "Дохуя чого пофікшено. Спуфінг має бути пахую. Але треба перевіряти\nВзаємодія з плановими цілями"
 }
