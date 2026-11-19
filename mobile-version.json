@@ -1,9 +1,9 @@
 {
-    "version": "1.1.24",
-    "versionCode": 131,
+    "version": "1.1.25",
+    "versionCode": 132,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "fad848770ab9f486f3812137f63b63081490c2306c4dfe57f4d7d80a3118faae",
+    "sha256": "c8b5f72c0dce8fb2b8ee35281dbde50f1de0e9738f4127acb9abab6bc09356d3",
     "minProtocolVersion": 1,
-    "notes": "PITUSHNYA Mobile 1.1.24\n\n- Оновлення, що обірвалось через поганий інтернет, докачується з місця обриву, а не з нуля.\n- Усе з 1.1.23: місце без GPS у машині, телефони в одній машині не тягнуть один одного, журнал пристрою на сервер, сповіщення про ціль раз на добу, своя гучність підказок."
+    "notes": "PITUSHNYA Mobile 1.1.25\n\n- Оновлення качається спершу з нашого сервера, потім з GitHub; обрив докачується з місця обриву.\n- Усе з 1.1.23 і 1.1.24."
 }
