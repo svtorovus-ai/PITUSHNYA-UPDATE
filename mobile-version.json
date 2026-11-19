@@ -1,9 +1,9 @@
 {
-    "version": "1.1.26",
-    "versionCode": 133,
+    "version": "1.1.27",
+    "versionCode": 134,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "3b2d157510d32803293349663c07c0d0f6332e632d84970d5b1a0e8a09cd3aa9",
+    "sha256": "6258246b1e0355ea9be6ec1b1d28569245b6ff3c349bb9c14cdd2a90d74d8fa1",
     "minProtocolVersion": 1,
-    "notes": "PITUSHNYA Mobile 1.1.26\n\n- Те саме місце від мережі, що приходить знову і знову, більше не тягне мітку назад (і з місця, поставленого вручну).\n- Тримач / рука: менше хибних перемикань на поганій дорозі.\n- Оновлення качається одне за раз — без «Invalid APK».\n- Оновлення спершу з нашого сервера, з докачуванням."
+    "notes": "PITUSHNYA Mobile 1.1.27\n\n- Без GPS у машині мітка дивиться туди, куди рухались місця від мережі, а не за компасом (його збиває метал і рука).\n- Старий курс GPS годинної давнини більше не задає напрям.\n- Усе з 1.1.26."
 }
