@@ -1,9 +1,9 @@
 {
-    "version": "1.1.32",
-    "versionCode": 139,
+    "version": "1.1.33",
+    "versionCode": 140,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "466afd98b555fcd297cea41f91821f4e4f181c6dde1bb1bed9111ac46170ea9e",
+    "sha256": "5ac993932b834c705b189d6045e48ba891dce2416088e7384f07c30199cf0471",
     "minProtocolVersion": 1,
-    "notes": "PITUSHNYA Mobile 1.1.32\n\n- У дорозі: скільки витрачено від початку руху і скільки ще піде до фінішу (за розходом мітки). Кожне вмикається окремо в Навігатор → Маршрут; можна почати рахувати заново; табличку можна пересунути й лишати при схованому інтерфейсі.\n- Розхід у варіантах маршруту теж вмикається/вимикається."
+    "notes": "PITUSHNYA Mobile 1.1.33\n\n- Розхід за замовчуванням: Течік 14 л, Фольц 10 л, HMMWV 30 л, Спрінтер 15 л, Китаєць 16 л, Тавруха 9 л, Шляпа — одна батка, Дракон 25 л на 100 км (Travel — пачка сигарет і 3 рафа)."
 }
