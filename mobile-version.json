@@ -1,9 +1,9 @@
 {
-    "version": "1.1.25",
-    "versionCode": 132,
+    "version": "1.1.26",
+    "versionCode": 133,
     "channel": "mobile",
     "url": "https://github.com/svtorovus-ai/PITUSHNYA-UPDATE/releases/download/pitushnya-mobile/PITUSHNYA-Mobile.apk",
-    "sha256": "c8b5f72c0dce8fb2b8ee35281dbde50f1de0e9738f4127acb9abab6bc09356d3",
+    "sha256": "3b2d157510d32803293349663c07c0d0f6332e632d84970d5b1a0e8a09cd3aa9",
     "minProtocolVersion": 1,
-    "notes": "PITUSHNYA Mobile 1.1.25\n\n- Оновлення качається спершу з нашого сервера, потім з GitHub; обрив докачується з місця обриву.\n- Усе з 1.1.23 і 1.1.24."
+    "notes": "PITUSHNYA Mobile 1.1.26\n\n- Те саме місце від мережі, що приходить знову і знову, більше не тягне мітку назад (і з місця, поставленого вручну).\n- Тримач / рука: менше хибних перемикань на поганій дорозі.\n- Оновлення качається одне за раз — без «Invalid APK».\n- Оновлення спершу з нашого сервера, з докачуванням."
 }
